@@ -12,7 +12,7 @@ function App() {
 
   return (
   <>
-  <h1>learn redux</h1>
+  <h1>Todos App</h1>
   <AddTodo/>
   <Todos/>
   </>

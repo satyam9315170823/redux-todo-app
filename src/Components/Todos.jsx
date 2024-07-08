@@ -7,7 +7,7 @@ import { useSelector , useDispatch} from "react-redux";
      const dispatch= useDispatch()
     return(
         <>
-        <div>Todos</div>
+        
         <ul className="list-none">
             {todos.map((todo) => (
               <li
